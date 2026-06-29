@@ -155,7 +155,7 @@ Ecosistema digital con foco en captar al turista ya presente en la ciudad base:
 ## 7. Próximos pasos del perfil
 
 1. **Análisis de las 5 Fuerzas de Porter** — estructura competitiva del mercado de experiencias en la ciudad elegida.
-2. **Análisis de mercado** — segmentación (argentinos, brasileños, nacional, alto gasto en tránsito), tamaño y disposición a pagar por experiencia.
+2. **Análisis de mercado y selección de localización** — segmentación (argentinos, brasileños, nacional, alto gasto en tránsito), tamaño, disposición a pagar por experiencia y definición de la ciudad base mediante matriz de criterios (la RM entra como candidata principal).
 3. **Modelo de negocio (Canvas)** — portafolio de experiencias, precios, canales y red de proveedores.
 4. **Estrategia** — diferenciación por curaduría y autenticidad, marketing digital y alianzas de distribución.
 5. **Estudio técnico** — diseño y estandarización de cada experiencia, capacidad, logística y aseguramiento de calidad.

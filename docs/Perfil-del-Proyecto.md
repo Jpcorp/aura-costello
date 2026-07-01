@@ -65,8 +65,8 @@ La motivación principal del viaje es la **naturaleza, paisajes, flora y fauna (
 
 ### 4.3 Los mercados que mueven el volumen calzan con un producto de precio-valor
 
-- **Argentina** es el mercado #1: 2.088.389 llegadas en 2024 (+73,2%), con gasto de **USD 63/día**, estadía de 8,6 días y **26,3% del presupuesto en compras**, seguido de restaurantes. Es un viajero **sensible al precio** que ya gasta en gastronomía y compras urbanas.
-- **Brasil**: gasto de **USD 112/día**, estadía de 7,6 días, audiencia joven y digital.
+- **Argentina** es el mercado #1 y sigue creciendo: **2.856.441 llegadas en 2025 (+36,8% vs. 2024)**, tras los 2.088.389 de 2024. Gasto de **USD 63/día**, estadía de 8,6 días y **26,3% del presupuesto en compras**, seguido de restaurantes. Es un viajero **sensible al precio** que ya gasta en gastronomía y compras urbanas.
+- **Brasil** (2º mercado): gasto de **USD 112/día**, estadía de 7,6 días, audiencia joven y digital. **Ojo: sus llegadas cayeron -13,4% en 2025 (787.036 → 681.649)**, por lo que aporta gasto alto pero no volumen creciente.
 - **EE.UU.** (mayor gasto: USD 1.499, 14 días) viaja motivado por **gastronomía, naturaleza y cultura**, y transita por Santiago.
 
 > Implicancia: el producto debe ofrecer **buena relación precio-valor** (no ultra-lujo) para capturar a argentinos y brasileños, con opciones premium acotadas para el visitante de alto gasto (EE.UU.) que pasa por la capital.
@@ -142,7 +142,7 @@ Ecosistema digital con foco en captar al turista ya presente en la ciudad base:
 |---|---|
 | Modelo liviano en activos: bajo CAPEX, rápido de testear y escalar | Flujo masivo concentrado en la RM (562.300 pernoctaciones en dic-2025) |
 | Calce directo con lo que el turista hace: cultura, compras, gastronomía | Gasto creciendo más rápido que las llegadas (+48,1%) |
-| Producto de precio-valor que habla a argentinos y brasileños | Demanda receptiva récord: 6 MM de turistas (+14,6%) |
+| Producto de precio-valor que habla a argentinos y brasileños | Demanda receptiva récord: 6.004.567 turistas en 2025 (+14,6%); Argentina +36,8% (2,86 MM) |
 
 | Debilidades | Amenazas |
 |---|---|
@@ -171,6 +171,7 @@ Ecosistema digital con foco en captar al turista ya presente en la ciudad base:
 
 - Perfil de Proyecto original — "1.-Perfil de Proyecto.docx".
 - INE — Encuesta Mensual de Alojamiento Turístico (EMAT), boletines enero 2025 a abril 2026 (16 ediciones): pernoctaciones, ocupación, ADR/RevPAR y pernoctaciones por región.
+- SERNATUR — Llegadas de turistas extranjeros, serie por nacionalidad y paso fronterizo (publicación junio 2026, cifras hasta mayo 2026) — "202605-LLEGADAS-DE-TURISTAS-EXTRANJEROS...xlsx".
 
 ### Fuentes externas
 

@@ -30,8 +30,8 @@ A continuación, cada supuesto, su evidencia y su veredicto.
 **Lo que dice el perfil:** un huésped de alto patrimonio dispuesto a pagar tarifas premium por pods de lujo, spa de autor y exclusividad.
 
 **La evidencia:**
-- El **mercado #1 de Chile es Argentina**: 2.088.389 llegadas en 2024 (+73,2%), pero con **gasto de apenas USD 63 por día** y estadía de 8,6 días (≈ USD 544 total). Destina **26,3% de su presupuesto a compras**, no a alojamiento de lujo.
-- **Brasil** gasta USD 112/día (7,6 días ≈ USD 851 total).
+- El **mercado #1 de Chile es Argentina**: **2.856.441 llegadas en 2025 (+36,8%)**, pero con **gasto de apenas USD 63 por día** y estadía de 8,6 días (≈ USD 544 total). Destina **26,3% de su presupuesto a compras**, no a alojamiento de lujo.
+- **Brasil** gasta USD 112/día (7,6 días ≈ USD 851 total), aunque sus llegadas **cayeron -13,4% en 2025** (682 mil).
 - Ambos flujos están impulsados por **tipo de cambio favorable y precios competitivos** — son explícitamente **sensibles al precio**.
 - El segmento de mayor gasto, **EE.UU. (USD 1.499, 14 días)**, no busca un pod cerca de Santiago: viaja por **gastronomía, naturaleza y cultura** a lo largo del país.
 
@@ -128,7 +128,7 @@ El perfil actual no está "mal escrito": está **bien escrito sobre una hipótes
 
 ## Fuentes
 
-**Fuentes primarias procesadas (carpeta `fuentes/`):** Perfil de Proyecto original; INE — boletines EMAT enero 2025–abril 2026 (estacionalidad y pernoctaciones por región).
+**Fuentes primarias procesadas (carpeta `fuentes/`):** Perfil de Proyecto original; INE — boletines EMAT enero 2025–abril 2026 (estacionalidad y pernoctaciones por región); SERNATUR — Llegadas de turistas extranjeros, serie por nacionalidad y paso fronterizo (publicación junio 2026, cifras hasta mayo 2026) — "202605-LLEGADAS-DE-TURISTAS-EXTRANJEROS...xlsx".
 
 **Fuentes externas:**
 

@@ -6,6 +6,8 @@
 
 **Estado:** Borrador v0.1 · **Fecha:** Junio 2026 · **Localización:** Por definir (ver §4.4)
 
+> ⚠️ **Documento superado parcialmente.** El concepto evolucionó tras el *Cuestionamiento Crítico*; la versión vigente es `Perfil-del-Proyecto.md` v2.0 (operador gastronómico-cultural liviano en activos). Este documento se conserva como base fundacional.
+
 ---
 
 ## 1. Resumen del proyecto
